@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ncodeslab.neews",
+      "sha256_cert_fingerprints":
+      ["9A:1C:F5:C7:CC:49:02:5C:15:CA:96:C6:9E:14:AD:A9:81:96:A6:A5:64:60:63:2E:8B:2D:29:1C:4F:E2:36:BB"]
+    }
+  }]
+  

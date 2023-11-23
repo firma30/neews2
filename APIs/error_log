@@ -1,0 +1,95 @@
+[21-Sep-2023 03:22:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'supergoa_panduan.video_articles' doesn't exist in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php:19
+Stack trace:
+#0 /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 19
+[21-Sep-2023 03:22:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'supergoa_panduan.video_articles' doesn't exist in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfTodayAdmin.php:19
+Stack trace:
+#0 /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfTodayAdmin.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfTodayAdmin.php on line 19
+[21-Sep-2023 03:23:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'supergoa_panduan.video_articles' doesn't exist in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php:19
+Stack trace:
+#0 /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 19
+[21-Sep-2023 03:23:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'supergoa_panduan.video_articles' doesn't exist in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfTodayAdmin.php:19
+Stack trace:
+#0 /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfTodayAdmin.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfTodayAdmin.php on line 19
+[21-Sep-2023 03:24:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'supergoa_panduan.video_articles' doesn't exist in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php:19
+Stack trace:
+#0 /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 19
+[21-Sep-2023 03:24:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'supergoa_panduan.video_articles' doesn't exist in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfTodayAdmin.php:19
+Stack trace:
+#0 /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfTodayAdmin.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfTodayAdmin.php on line 19
+[21-Sep-2023 03:32:45 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[21-Sep-2023 03:33:02 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[21-Sep-2023 03:33:18 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php:19
+Stack trace:
+#0 /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php(19): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php on line 19
+[21-Sep-2023 09:08:47 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[21-Sep-2023 09:11:16 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[21-Sep-2023 09:15:46 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[21-Sep-2023 12:55:01 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[21-Sep-2023 12:55:19 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php:19
+Stack trace:
+#0 /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php(19): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php on line 19
+[21-Sep-2023 23:11:26 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[21-Sep-2023 23:14:30 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[22-Sep-2023 02:53:43 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[22-Sep-2023 04:15:50 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[22-Sep-2023 08:09:42 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[22-Sep-2023 10:27:38 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[22-Sep-2023 10:27:56 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[23-Sep-2023 11:21:25 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[23-Sep-2023 12:04:41 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[23-Sep-2023 12:04:55 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[23-Sep-2023 12:04:59 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php:19
+Stack trace:
+#0 /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php(19): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php on line 19
+[23-Sep-2023 12:33:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php:19
+Stack trace:
+#0 /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php(19): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php on line 19
+[23-Sep-2023 12:33:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php:19
+Stack trace:
+#0 /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php(19): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php on line 19
+[23-Sep-2023 12:45:11 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[23-Sep-2023 12:47:19 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[23-Sep-2023 12:47:20 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[23-Sep-2023 12:47:24 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php:19
+Stack trace:
+#0 /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php(19): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php on line 19
+[23-Sep-2023 12:47:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php:19
+Stack trace:
+#0 /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php(19): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php on line 19
+[23-Sep-2023 12:47:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php:19
+Stack trace:
+#0 /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php(19): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getVideoArticlesAdmin.php on line 19
+[23-Sep-2023 15:36:00 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[25-Sep-2023 03:29:52 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[25-Sep-2023 07:06:32 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[25-Sep-2023 08:25:51 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[25-Sep-2023 08:26:02 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
+[25-Sep-2023 08:27:22 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/supergoa/anekapanduan.webmedia.co.id/APIs/getNoOfAdmin.php on line 21
